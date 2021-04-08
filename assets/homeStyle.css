@@ -1,0 +1,152 @@
+html{
+    font-size: 65%;   
+}
+body, html{
+    margin: 0;
+}
+
+
+ul{
+    padding-left: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-border{
+    border-bottom: 1px solid #E0752F;
+    padding-bottom: 10px;
+}
+
+.container{
+    margin-left: 101px;
+    margin-right: 101px;
+}
+
+.nav-ul {
+    list-style: none;
+   
+}
+
+.nav-font{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: white;
+    font: normal normal medium 16px/21px Roboto;
+    letter-spacing: 0px;
+    opacity: 1; 
+}
+
+
+
+.nav-ul li{
+    margin-right: 57px;
+  }
+
+.h1-header{
+    margin-top: 191px;
+    margin-left: 101px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    letter-spacing: 0.67px;
+    font-weight: 600;
+    color: white;
+}
+
+.cont-header{
+    background-image: url("./img/slider-1.png");
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 768px;
+}
+
+.h3-header{
+    margin-top: 30px;
+    margin-left: 101px;
+    width: 363px;
+    height: 42px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-size: initial;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+    opacity: 1;  
+}
+
+.btn-read{
+    margin-top: 39px;
+    margin-left: 101px;
+    width: 144px;
+    height: 48px;
+    background-color: #E0752F;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+.btn-text{
+    font-family: 'Roboto';
+    text-align: center;
+    font: normal 16px/21px 'Roboto';
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+    opacity: 1; 
+}
+
+#rectangle1{
+    margin-top: 144px;
+    margin-left: 0;
+    width: 32px;
+    height: 384px;
+    background-color: #E0752F;
+}
+
+.services{
+    display: flex;
+    flex-direction: row;
+}
+
+.h2-main{
+    margin-top: 167px;
+    margin-left: 299px;
+    width: 602px;
+    height: 55px;
+}
+
+.h2-sup{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Poppi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ns', sans-serif;
+    font-size: 39px;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: black;
+}
+
+.h2-inf{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 39px;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #E0752F;
+}
+
+.services-text{
+    margin-top: 20;
+    left: 299px;
+    width: 768px;
+    height: 197px;
+    font: normal 16px/28px 'Roboto';
+    letter-spacing: 0.22px;
+    color: #343434;
+    opacity: 1;
+}
